@@ -1,0 +1,16 @@
+{
+  "name": "bower-lettering",
+  "version": "0.1.0",
+  "main": "js/main_new.js",
+  "dependencies": {
+    "node-lettering": "~0.1.0"
+  },
+  "devDependencies": {
+    "browserify": "latest",
+    "grunt": "~0.4.0",
+    "grunt-browserify": "latest",
+    "grunt-contrib-watch": "latest",
+    "mocha": "~1.16.2",
+    "chai": "~1.8.1"
+  }
+}
