@@ -1,4 +1,5 @@
-bower-lettering
+=========
+only a demo for http://voku.github.io/OPEN-SOURCE
 =========
 
-This is only a demo for "node" + "browserify"
+This is only a demo for "node" + "browserify" => js
